@@ -2,9 +2,9 @@ nav:
   Home: /
   About: /about/
   Writing: /archives/
-  Projects: http://github.com/probberechts
+#  Projects: http://github.com/probberechts
 
-projects_url: http://github.com/probberechts
+#projects_url: http://github.com/probberechts
 
 customize:
     gravatar:
@@ -27,25 +27,24 @@ customize:
         url: /images/apple-touch-icon.png
         gravator: false
     social_links:
-        github: http://github.com/probberechts/cactus-dark
-        twitter: /
-        facebook: /
-        linkedin: /
-    post_count: 5
+        github: https://github.com/pollyfat
+        weibo: https://weibo.com/u/3398803332/home?wvr=5#1542774342287
+        music: https://music.163.com/#/user/home?id=65872127
+    post_count: 10
     highlight: rainbow
 
 # RSS
 rss: false
 
 # Plugins
-plugins:
-    disqus_shortname: # Disqus Comments Shortname
-    google_analytics: UA-86660611-1 # enter the tracking ID for your Google Analytics
+#plugins:
+#    disqus_shortname: # Disqus Comments Shortname
+#    google_analytics: UA-86660611-1 # enter the tracking ID for your Google Analytics
 
 # Miscellaneous
-miscellaneous:
-    open_graph: # see http://ogp.me
-        fb_app_id:
-        fb_admins:
-        twitter_id:
-        google_plus:
+#miscellaneous:
+#    open_graph: # see http://ogp.me
+#        fb_app_id:
+#        fb_admins:
+#        twitter_id:
+#        google_plus:
