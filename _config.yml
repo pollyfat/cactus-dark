@@ -6,6 +6,10 @@ nav:
 
 #projects_url: http://github.com/probberechts
 
+social_links:
+      github: https://github.com/pollyfat
+      mail: bugreject@gmail.com
+
 customize:
     gravatar:
         email: 
@@ -29,9 +33,6 @@ customize:
     post_count: 10
     highlight: rainbow
 
-social_links:
-      github: https://github.com/pollyfat
-      mail: bugreject@gmail.com
 
 # RSS
 rss: false
