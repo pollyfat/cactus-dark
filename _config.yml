@@ -26,11 +26,12 @@ customize:
       apple:
         url: /images/apple-touch-icon.png
         gravator: false
-    social_links:
-          github: https://github.com/pollyfat
-          mail: bugreject@gmail.com
     post_count: 10
     highlight: rainbow
+
+social_links:
+      github: https://github.com/pollyfat
+      mail: bugreject@gmail.com
 
 # RSS
 rss: false
